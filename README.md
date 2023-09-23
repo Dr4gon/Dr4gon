@@ -18,7 +18,7 @@ const XP = {
   OS: ["Linux","MacOS","Windows","Terminal"],
   VCS: ["SVN","Git"],
   technologies: {
-    build: ["mvn","gradle","npm","webpack"],
+    build: ["ant","mvn","gradle","npm","webpack"],
     appServer: ["Glassfish","Apache","Tomcat"],
     CI/CD: ["Jenkins","Docker"],
     cloud: ["AWS","GoogleCloud"],
