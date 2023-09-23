@@ -29,7 +29,7 @@ const XP = {
 }
 ```
 
-## Current projects
+## Projects
 
 * A riversurf academy to teach riversurfing which needs a nice looking homepage with Vue.js, MongoDB, Docker, GoogleCloud
 * A public available portfolio of personal projects
