@@ -8,7 +8,7 @@
 const XP = {
   favorite: ["UI/UX","Refactoring","Prototyping","KISS"],
   IDEs: ["Eclipse","IDEA","VisualStudio Code","VI(M)"],
-  concepts: ["TDD","MVP","Agile","KanBan","Submarine"],
+  concepts: ["TDD","MVP","Agile","SCRUM","KanBan","Submarine"],
   collaboration: ["Miro","Jira","Confluence","Trello","Slack","MSTeams","Around.co","Zoom"],
   languages: ["Java","JS","TS","C++","Android"],
   OS: ["Linux","MacOS","Windows","Terminal"],
