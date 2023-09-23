@@ -5,7 +5,7 @@
 ## Experience
 
 ```
-{
+const XP = {
   favorite: ["UI/UX","Refactoring","Prototyping","KISS"],
   IDEs: ["Eclipse","IDEA","VisualStudio Code","VI(M)"],
   concepts: ["TDD","MVP","Agile","KanBan","Submarine"],
