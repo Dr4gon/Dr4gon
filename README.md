@@ -23,7 +23,7 @@ const XP = {
     CI/CD: ["Jenkins","Docker"],
     cloud: ["AWS","GoogleCloud"],
     frontend: ["Angular","Bootstrap","QT","Vaadin","JSF","Primefaces","JSP","HTML","CSS","SASS","jQuery"],
-    backend: ["SQL","MongoDB","Spring","J2EE","DBZ","Flyway","JAXB","JAX-RS","REST"],
+    backend: ["SQL","MongoDB","Spring","J2EE","DBZ","Flyway","JAXB","JAX-RS","REST","JPA","Hibernate"],
     test: ["JUnit","Selenium","Mockito","Jest","Gatling"],
   }
 }
