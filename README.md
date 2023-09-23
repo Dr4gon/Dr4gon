@@ -1,4 +1,4 @@
 ### Dear visitor, thanks for coming here!
 
-[Follow the white rabbit...](https://dr4gon.io/))
+[Follow the white rabbit...](https://dr4gon.io/)
 
