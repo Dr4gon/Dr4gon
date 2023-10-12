@@ -40,3 +40,9 @@ const XP = {
 * I'm playing around with AI image generation and OpenAI 
 * Deep dive into programming concepts to explain it to a 6 year old
 * Finding creative ways to teach coding to non techies
+
+## Configs
+
+* [IDEA](https://github.com/Dr4gon/Dr4gon/blob/master/Intellij-code-style.xml)
+* [VS Code - Prettier](https://github.com/Dr4gon/Dr4gon/blob/master/.prettierrc.json)
+* [Gitignore](https://github.com/Dr4gon/Dr4gon/blob/master/.gitignore)
