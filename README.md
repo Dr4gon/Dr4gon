@@ -10,21 +10,23 @@
 
 ```js
 const XP = {
-  favorite: ["UI/UX","Refactoring","Prototyping","KISS"],
+  favorites: ["UI/UX","Refactoring","Prototyping","KISS"],
   IDEs: ["Eclipse","IDEA","VisualStudio Code","VI(M)"],
   concepts: ["TDD","MVP","Agile","SCRUM","KanBan","Submarine"],
-  collaboration: ["Miro","Jira","Confluence","Trello","Slack","MSTeams","Around.co","Zoom"],
+  collaboration: ["Miro","Trello","Slack","MSTeams","Around.co","Zoom"],
+  ticketsystems: ["Jira","RedMine","GitHub"]
+  Wikis: ["Notion","Confluence"]
   languages: ["Java","JS","TS","C++","Android"],
   OS: ["Linux","MacOS","Windows","Terminal"],
   VCS: ["SVN","Git"],
   technologies: {
-    build: ["ant","mvn","gradle","npm","webpack"],
-    appServer: ["Glassfish","Apache","Tomcat"],
+    build: ["ant","mvn","gradle","npm","webpack","SH"],
+    appServer: ["Glassfish","Apache","Tomcat","Express","node"],
     CI/CD: ["Jenkins","Docker"],
     cloud: ["AWS","GoogleCloud"],
-    frontend: ["Angular","Bootstrap","QT","Vaadin","JSF","Primefaces","JSP","HTML","CSS","SASS","jQuery"],
-    backend: ["SQL","MongoDB","Spring","J2EE","DBZ","Flyway","JAXB","JAX-RS","REST","JPA","Hibernate"],
-    test: ["JUnit","Selenium","Mockito","Jest","Gatling"],
+    frontend: ["Vue.js","Angular","Bootstrap","QT","Vaadin","JSF","Primefaces","JSP","HTML","S/CSS","SASS","jQuery"],
+    backend: ["Axios","Mongoose","SQL","MongoDB","Spring","J2EE","DBZ","Flyway","JAXB","JAX-RS","REST","JPA","Hibernate"],
+    test: ["Cypress","Supertest","Jest","JUnit","Selenium","Mockito","Gatling"],
   }
 }
 ```
