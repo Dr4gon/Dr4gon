@@ -15,7 +15,7 @@ const XP = {
   concepts: ["TDD","MVP","Agile","SCRUM","KanBan","Submarine"],
   collaboration: ["Miro","Trello","Slack","MSTeams","Around.co","Zoom"],
   ticketsystems: ["Jira","RedMine","GitHub"]
-  Wikis: ["Notion","Confluence"]
+  wikis: ["Notion","Confluence"]
   languages: ["Java","JS","TS","C++","Android"],
   OS: ["Linux","MacOS","Windows","Terminal"],
   VCS: ["SVN","Git"],
