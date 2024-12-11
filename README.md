@@ -9,7 +9,7 @@
 ## Having
 
 ```js
-const XP = {
+let XP = {
   favorites: ["UI/UX","Refactoring","Prototyping","KISS"],
   IDEs: ["Eclipse","IDEA","VisualStudio Code","VI(M)"],
   concepts: ["TDD","MVP","Agile","SCRUM","KanBan","Submarine"],
