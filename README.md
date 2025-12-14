@@ -1,4 +1,4 @@
-# Dear 'think your name here', thanks for coming here!
+# Dear {user.firstname}, thanks for coming here!
 
 [Follow the white rabbit...](https://dr4gon.io/)
 
