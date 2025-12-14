@@ -1,4 +1,4 @@
-# Dear {user.firstname}, thanks for coming here!
+# Dear #{user.firstname}, thanks for coming here!
 
 [Follow the white rabbit...](https://dr4gon.io/)
 
@@ -6,7 +6,7 @@
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
 
-## Having
+## Skills
 
 ```js
 let XP = {
@@ -33,18 +33,19 @@ let XP = {
 
 ## Coding
 
-* A riversurf academy to teach riversurfing which needs a nice looking homepage with Vue.js, MongoDB, Docker, GoogleCloud
-* A public available portfolio of personal projects
-* I want to contribute to the Open-Source community 
+* Small projects like the [Timer.app](https://github.com/Dr4gon/timer.app/) and [Nook](https://github.com/usenook-co/nook)
+* Building small Vue.js components such as [vue-password-toggle](https://github.com/Dr4gon/vue-password-toggle) and [vue-text-collapse](https://github.com/Dr4gon/vue-text-collapse)
+* Contributing to open-source projects from time to time
 
 ## Learning
 
 * I'm playing around with AI image generation and OpenAI 
-* Deep dive into programming concepts to explain it to a 6 year old
-* Finding creative ways to teach coding to non techies
+* Setting up infrastructure myself and connecting the dots from webserver to open-source apps
+* Shell navigation and hacks
 
 ## Configs
 
 * [IDEA](https://github.com/Dr4gon/Dr4gon/blob/master/Intellij-code-style.xml)
 * [VS Code - Prettier](https://github.com/Dr4gon/Dr4gon/blob/master/.prettierrc.json)
 * [Gitignore](https://github.com/Dr4gon/Dr4gon/blob/master/.gitignore)
+* [.bashrc - in progress..]
