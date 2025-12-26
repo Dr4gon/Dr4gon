@@ -1,6 +1,23 @@
 # Dear #{user.firstname}, thanks for coming here!
 
-[Follow the white rabbit...](https://dr4gon.io/)
+My first name is De Long.
+
+It literally means De = German ⬛🟥🟨 Long = Dragon 🐉.
+
+Since I was a youth, I love to code and solve puzzles. Leading me to computer games (this is where the dr4gon nickname comes from), which I still enjoy very much to this day. Over to a software engineering career at various companies with different sizes, roles, teams, projects, and clients.
+
+Inspired by the funny [Follow Your Heart](https://www.goodreads.com/book/show/38903.Follow_Your_Heart), I got in the habit of reading books. And embarked on a personal journey with lots of failed experiments to achieve my dream of building my own company [MINDSHINE](https://www.munich-startup.de/46307/7-fragen-mindshine/).
+
+Nowadays after experiencing the Dark Side of Non-Disclosure-Agreement code world I also embrace the Light Side of the Open-Source world with my contributions on GitHub. Such as an AI assisstant for riversurf beginners at [Riversurf Academy](https://ai.riversurf.academy).
+
+I feel passionate about teaching happy and enthuiastic customers at [Zammad](www.zammad.com), how to have fun working with an intuitive helpdesk ticket system and make your life as an admin as automated as possible.
+
+I enjoy fine food, creative cooking, riversurfing, kite surfing, diving, traveling, reading, learning, driving for fun, and so much more. Life is a big holiday. Enriched by meaningful relationships and valuable conversations.
+
+I feel truly grateful for the journey so far, and the positively affected lives of my customers. Special thanks goes to my communication trainer Marc for teaching me invaluable skills, feeling emotions, and being honestly authentic.
+
+Right now going with the flow and living according to one of my favorite songs ["Sowieso" from Mark Forster "Egal was kommt, es wird gut, sowieso"](https://open.spotify.com/intl-de/track/1CLljfgtXG6ODaJONSMkwQ).
+To get in touch with me, just contact me on [LinkedIn](https://de.linkedin.com/in/delong-iu).
 
 ## Loving
 
