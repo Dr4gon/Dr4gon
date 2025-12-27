@@ -10,7 +10,7 @@ Inspired by the funny [Follow Your Heart](https://www.goodreads.com/book/show/38
 
 Nowadays after experiencing the Dark Side of Non-Disclosure-Agreement code world I also embrace the Light Side of the Open-Source world with my contributions on GitHub. Such as an AI assisstant for riversurf beginners at [Riversurf Academy](https://ai.riversurf.academy).
 
-I feel passionate about teaching happy and enthuiastic customers at [Zammad](https://www.zammad.com), how to have fun working with an intuitive helpdesk ticket system and make your life as an admin as automated as possible.
+I feel passionate about teaching frustrated customers at [Zammad](https://www.zammad.com), how to have fun working with an intuitive helpdesk ticket system and make your life as an admin as automated as possible.
 
 I enjoy fine food, creative cooking, riversurfing, kite surfing, diving, traveling, reading, learning, driving for fun, and so much more. Life is a big holiday. Enriched by meaningful relationships and valuable conversations.
 
