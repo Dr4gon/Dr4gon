@@ -17,7 +17,7 @@ I enjoy fine food, creative cooking, riversurfing, kite surfing, diving, traveli
 I feel truly grateful for the journey so far, and the positively affected lives of my customers. Special thanks goes to my communication trainer Marc for teaching me invaluable skills, feeling emotions, and being honestly authentic.
 
 Right now going with the flow and living according to one of my favorite songs ["Sowieso" from Mark Forster "Egal was kommt, es wird gut, sowieso"](https://open.spotify.com/intl-de/track/1CLljfgtXG6ODaJONSMkwQ).
-To get in touch with me, just contact me on [LinkedIn](https://de.linkedin.com/in/delong-iu).
+To get in touch with me, just contact me via [mail](mailto:mail@dr4gon.io).
 
 ## Loving
 
