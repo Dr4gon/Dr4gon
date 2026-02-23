@@ -8,7 +8,7 @@ Since I was a youth, I love to code and solve puzzles. Leading me to computer ga
 
 Inspired by the funny [Follow Your Heart](https://www.goodreads.com/book/show/38903.Follow_Your_Heart), I got in the habit of reading books. And embarked on a personal journey with lots of failed experiments to achieve my dream of building my own company [MINDSHINE](https://www.munich-startup.de/46307/7-fragen-mindshine/).
 
-Nowadays after experiencing the Dark Side of Non-Disclosure-Agreement code world I also embrace the Light Side of the Open-Source world with my contributions on GitHub. Such as an AI assisstant for riversurf beginners at [Riversurf Academy](https://ai.riversurf.academy).
+Nowadays after experiencing the Dark Side of Non-Disclosure-Agreement code world I also embrace the Light Side of the Open-Source world with my contributions on GitHub.
 
 I feel passionate about teaching frustrated customers at [Zammad](https://www.zammad.com), how to have fun working with an intuitive helpdesk ticket system and make your life as an admin as automated as possible.
 
