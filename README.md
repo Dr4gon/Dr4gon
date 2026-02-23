@@ -2,7 +2,7 @@
 
 My first name is De Long.
 
-It literally means De = German ⬛🟥🟨 Long = Dragon 🐉.
+It literally means De = German ⬛🟥🟨 Long = Dragon &#128050;.
 
 Since I was a youth, I love to code and solve puzzles. Leading me to computer games (this is where the dr4gon nickname comes from), which I still enjoy very much to this day. Over to a software engineering career at various companies with different sizes, roles, teams, projects, and clients.
 
