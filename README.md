@@ -44,8 +44,9 @@ let XP = {
   VCS: ["SVN","Git"],
   technologies: {
     build: ["ant","mvn","gradle","npm","webpack","SH"],
+    reversProxy: ["nginx","traeffic"],
     appServer: ["Glassfish","Apache","Tomcat","Express","node"],
-    CI/CD: ["Jenkins","Docker"],
+    CI/CD: ["Jenkins","Docker","Docker-Compose"],
     cloud: ["AWS","GoogleCloud"],
     frontend: ["Vue.js","Angular","Bootstrap","QT","Vaadin","JSF","Primefaces","JSP","HTML","S/CSS","SASS","jQuery"],
     backend: ["Axios","Mongoose","SQL","MongoDB","Spring","J2EE","DBZ","Flyway","JAXB","JAX-RS","REST","JPA","Hibernate"],
