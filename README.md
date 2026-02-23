@@ -28,10 +28,11 @@ To get in touch with me, just contact me via [mail](mailto:mail@dr4gon.io).
 ```js
 let XP = {
   favorites: ["UI/UX","Refactoring","Prototyping","KISS"],
+  AIs: ["Chat(iii)GPT","Claude","Lumo","Gemini"],
   IDEs: ["Eclipse","IDEA","VisualStudio Code","VI(M)"],
   concepts: ["TDD","MVP","Agile","SCRUM","KanBan","Submarine"],
   collaboration: ["Miro","Trello","Slack","MSTeams","Around.co","Zoom"],
-  ticketsystems: ["Jira","RedMine","GitHub"]
+  ticketsystems: ["Jira","RedMine","GitHub","Zammad"],
   wikis: ["Notion","Confluence"]
   languages: ["Java","JS","TS","C++","Android"],
   OS: ["Linux","MacOS","Windows","Terminal"],
