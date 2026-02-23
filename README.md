@@ -27,7 +27,7 @@ To get in touch with me, just contact me via [mail](mailto:mail@dr4gon.io).
 
 ```js
 let XP = {
-  favorites: ["UI/UX","Refactoring","Prototyping","KISS"],
+  favorites: ["Oh My ZSH","Coolify","Miro","KISS = Keep IT Stupid Simple","RipGrep","Maccy","VI(M)"],
   AIs: ["Chat(iii)GPT","Claude","Lumo","Gemini"],
   Open-Source: ["Vikunja","Mealie","Coolify","Homeassistant","Nextcloud"],
   concepts: ["TDD","MVP","Agile","SCRUM","KanBan","Submarine"],
